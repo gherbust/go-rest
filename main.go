@@ -8,11 +8,12 @@ import (
 
 func homePage(w http.ResponseWriter, r *http.Request){
 
-    fmt.Fprintf(w, "Welcome Golang test!")
+    fmt.Fprintf(w, "Welcome Golang prueba 2!")
 
     fmt.Println("Endpoint Hit: F03")
     fmt.Println("Endpoint Hit: F03")
     fmt.Println("Endpoint Hit: F03")
+    fmt.Println("Endpoint Hit: E01")
   
 
     fmt.Println("F002")
