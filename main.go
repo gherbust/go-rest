@@ -13,6 +13,7 @@ func homePage(w http.ResponseWriter, r *http.Request){
     fmt.Println("Endpoint Hit: F03")
     fmt.Println("Endpoint Hit: F03")
     fmt.Println("Endpoint Hit: F03")
+    fmt.Println("Endpoint Hit: E01")
   
 
     fmt.Println("F002")
