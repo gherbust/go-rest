@@ -12,6 +12,9 @@ func homePage(w http.ResponseWriter, r *http.Request){
 
     fmt.Println("Endpoint Hit: gherbust")
 
+    fmt.Println("F002")
+
+
 }
 
 func handleRequests() {
