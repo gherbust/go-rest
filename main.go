@@ -9,7 +9,9 @@ import (
 func homePage(w http.ResponseWriter, r *http.Request){
 
     fmt.Fprintf(w, "Welcome Golang test!")
+
     fmt.Println("Endpoint Hit: gherbust")
+
 }
 
 func handleRequests() {
